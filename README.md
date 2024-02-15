@@ -1,7 +1,7 @@
 
 # Speech to Text Converter
 
-![Speech to Text Converter](.assets/Img_Proyecto.png)
+![Speech to Text Converter](.Proyect-Test/assets/Img_Proyecto.png)
 
 ## Description
 
