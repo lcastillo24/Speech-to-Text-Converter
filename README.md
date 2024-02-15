@@ -1,7 +1,7 @@
 
 # Speech to Text Converter
 
-![Speech to Text Converter](.Proyect-Test/assets/Img_Proyecto.png)
+<img src="./assets/Img_Proyecto.png" alt="Piano" width="500">
 
 ## Description
 
