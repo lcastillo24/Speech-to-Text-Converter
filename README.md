@@ -1,7 +1,7 @@
 
 # Speech to Text Converter
 
-<img src="./assets/Img_Proyecto.png" alt="Piano" width="500">
+<img src="./assets/Img_Proyecto.png" alt="Speech to Text Converter" width="500">
 
 ## Description
 
